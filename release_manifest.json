@@ -1,0 +1,118 @@
+{
+  "release_version": "1.4.0-WORK-RC1",
+  "freeze_timestamp_utc": "2026-10-14T16:30:28.695140+00:00",
+  "verdict": "READY FOR HUMAN REVIEW",
+  "qa_kind": "Work builder QA, not third-party audit",
+  "manifest_self_hash": "Excluded to avoid recursion; separate receipt hashes this file.",
+  "file_count_including_manifest": 28,
+  "files": {
+    "AI_Coffee_Sales_Workflow_Portfolio_Recruiter_Edition.pdf": {
+      "bytes": 2939410,
+      "sha256": "428dce07db1099f6fcd778f7a817658aaa1191e99ce288eaed8702ec85aa0563"
+    },
+    "CHANGELOG_FINAL.md": {
+      "bytes": 497,
+      "sha256": "a5cec6535504efda14d26982b9bd5fcd743be045642b6a3ff4f95b42de44bcac"
+    },
+    "DEFECT_RESOLUTION_REGISTER.md": {
+      "bytes": 4148,
+      "sha256": "9eb6aa4cd1ad4de5d3050cf4a3f3a6d04e9e244e8b8b1d53f5fe516181093fb9"
+    },
+    "FINAL_RELEASE_QA.md": {
+      "bytes": 6027,
+      "sha256": "25d30a33478e22e534a5608c0b35551f58d15d442e18984ee67f81ea96f4a5a9"
+    },
+    "HANDOVER_FOR_HUMAN_REVIEW.md": {
+      "bytes": 1978,
+      "sha256": "047f6ce561294d41ee90c65846488fc159537c6a75a945c7b6318f6a5968dd39"
+    },
+    "README.md": {
+      "bytes": 8782,
+      "sha256": "52478641b2dd488887ea9ceacb1542052fe4e9ac803b8b166a2e58a5a542c821"
+    },
+    "architecture/workflow_pipeline.md": {
+      "bytes": 3521,
+      "sha256": "cc10024e7b0a491dfe96c5abdd65b5710e81cbfd1c3146b189f06d48cf10081b"
+    },
+    "case-studies/CASE-01-WHATSAPP-ORDER-TO-INVOICE.md": {
+      "bytes": 2752,
+      "sha256": "f2560dcbb7aa03ac41028be944967f66aae4030c374c9292079e71b96a94a6d1"
+    },
+    "case-studies/CASE-02-WHOLESALE-PRICING-TIERS.md": {
+      "bytes": 2629,
+      "sha256": "d2c61229b88546130eb61d7835df14f7eefdf1b30b0ea99ce30018e666c0b683"
+    },
+    "case-studies/CASE-03-SHIPPING-CORRECTION-REFUND.md": {
+      "bytes": 4243,
+      "sha256": "d862e505647c45e28327f47483eb7d9434f630b59fca4abfd95b027f473372f1"
+    },
+    "case-studies/CASE-04-SUPPLIER-SETTLEMENT-SEPARATION.md": {
+      "bytes": 3170,
+      "sha256": "5ad1af95ca09cc26cac85ed8d873967c603943deaf34baaf3645aebf08a0b3d5"
+    },
+    "case-studies/CASE-05-MONTHLY-CLOSING-BOOKKEEPING.md": {
+      "bytes": 4945,
+      "sha256": "c71427bad2f20e370ba5c908292d0a17e8086cd778b7425cdcfdcc2d4ff815dd"
+    },
+    "documentation/runtime_disclosure.md": {
+      "bytes": 1425,
+      "sha256": "90710f837961c958d236f66be6f19fc2677f0a43418232f98e31e12d9e7baa16"
+    },
+    "documentation/runtime_evidence.json": {
+      "bytes": 1991,
+      "sha256": "4178b1d8f7d93f44257bfcfafa2a6139e807df28b08fb1a951f28b49b780d028"
+    },
+    "evidence/evidence_catalog.md": {
+      "bytes": 5362,
+      "sha256": "cce56cab3988283c8957e6b282a06a0089d474d15b3ba555a5c43a753ac18f84"
+    },
+    "evidence/privacy_report.md": {
+      "bytes": 1539,
+      "sha256": "9ffff93decfbb63f679732cb568bf8c94a8a99d80a0be47d5fdc045432c67989"
+    },
+    "evidence/redaction_changes.json": {
+      "bytes": 2599,
+      "sha256": "e47ca3a4885bc511cbcc665343287b0c8d96579aaed9f36541da2d428df33c6b"
+    },
+    "evidence/verified_ledger_extracts.json": {
+      "bytes": 3885,
+      "sha256": "9eb22cdc47528e0767cc25450c7c8b6e2ad0921feb0417c1fd1236b66fbdf685"
+    },
+    "methodology/human_supervision_framework.md": {
+      "bytes": 2178,
+      "sha256": "714e0efcbdedf8174f2a15f0d4dcad6031efe73a54dbe5acf11171962a5380fb"
+    },
+    "evidence/public_redacted/EVD-01-physical-receipt-27200.jpg": {
+      "bytes": 111254,
+      "sha256": "570f58a66aa93f8dadcf374240648e0c710ff671b317eabe59b7a7f4b934d6aa"
+    },
+    "evidence/public_redacted/EVD-02-chatgpt-misread-7200.jpg": {
+      "bytes": 144642,
+      "sha256": "947c99008f78ebbdba064a8d5433de7adeb203a1fd83993546576481d43926a6"
+    },
+    "evidence/public_redacted/EVD-03-invoice-2med-2prem.jpg": {
+      "bytes": 139090,
+      "sha256": "ff601ee9f0a63b377a15bab141deb25fe0093b818437eb376a1ff6e7b6702ea7"
+    },
+    "evidence/public_redacted/EVD-04-chatgpt-misread-72000.jpg": {
+      "bytes": 265460,
+      "sha256": "3bf8afe577188f17c51131eea12612b8679bcc3c0bb006255cf9b027cb599c42"
+    },
+    "evidence/public_redacted/EVD-05-human-correction-27200.jpg": {
+      "bytes": 265974,
+      "sha256": "b4c69679397283abd30696144f8a607f199cd2bb19008276123b785424a109ed"
+    },
+    "evidence/public_redacted/EVD-06-payment-transfer-188k.jpg": {
+      "bytes": 334779,
+      "sha256": "66a860ae01355485d41dcb380f7949e25b8a68f5a089a9b8d74f182468495992"
+    },
+    "evidence/public_redacted/EVD-07-closing-report-tb002.jpg": {
+      "bytes": 298504,
+      "sha256": "745b12ce776abfc6ff57a7028492898dfe340113600947e8901d7ec2c97ced52"
+    },
+    "evidence/public_redacted/EVD-08-reseller-margin-tips.jpg": {
+      "bytes": 254296,
+      "sha256": "8889347cc93dc1a9b51b5a64dc06e88f9dd85187df5bca37b4e107ef50b8f8a9"
+    }
+  }
+}

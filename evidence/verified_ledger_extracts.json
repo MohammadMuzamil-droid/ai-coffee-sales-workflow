@@ -1,0 +1,175 @@
+{
+  "verification_date": "2026-10-14",
+  "classification": "Anonymized native ledger readback; product/financial fields only. Not a bank statement.",
+  "tb001": {
+    "Medium": 20,
+    "Premium": 21,
+    "sales": 825000,
+    "supplier": 620000,
+    "margin": 205000,
+    "shipping": 87500,
+    "shipping_remitted": 0,
+    "transactions": 6,
+    "donation": 800.0,
+    "tips": 0,
+    "result": 205800.0
+  },
+  "tb001_rows": [
+    {
+      "source_row": 2,
+      "Medium": 2,
+      "Premium": 2,
+      "sales": 80000,
+      "supplier": 60000,
+      "margin": 20000,
+      "shipping": 12800,
+      "shipping_remitted": 0
+    },
+    {
+      "source_row": 3,
+      "Medium": 10,
+      "Premium": 0,
+      "sales": 150000,
+      "supplier": 100000,
+      "margin": 50000,
+      "shipping": 32500,
+      "shipping_remitted": 0
+    },
+    {
+      "source_row": 4,
+      "Medium": 2,
+      "Premium": 14,
+      "sales": 380000,
+      "supplier": 300000,
+      "margin": 80000,
+      "shipping": 15000,
+      "shipping_remitted": 0
+    },
+    {
+      "source_row": 5,
+      "Medium": 4,
+      "Premium": 4,
+      "sales": 160000,
+      "supplier": 120000,
+      "margin": 40000,
+      "shipping": 27200,
+      "shipping_remitted": 0
+    },
+    {
+      "source_row": 6,
+      "Medium": 2,
+      "Premium": 0,
+      "sales": 30000,
+      "supplier": 20000,
+      "margin": 10000,
+      "shipping": 0,
+      "shipping_remitted": 0
+    },
+    {
+      "source_row": 7,
+      "Medium": 0,
+      "Premium": 1,
+      "sales": 25000,
+      "supplier": 20000,
+      "margin": 5000,
+      "shipping": 0,
+      "shipping_remitted": 0
+    }
+  ],
+  "case02": {
+    "source_row": 27,
+    "Medium": 10,
+    "Premium": 10,
+    "sales": 360000,
+    "supplier": 300000,
+    "margin": 60000
+  },
+  "case04": {
+    "id": "SC-20260928-004",
+    "sales": 371000,
+    "supplier": 325000,
+    "margin": 46000,
+    "shipping": 24000,
+    "obligation": 349000,
+    "status": "MENUNGGU PEMBAYARAN",
+    "items": [
+      {
+        "product": "Robusta Premium",
+        "size": "250 g",
+        "qty": 1,
+        "sales": 49000,
+        "supplier": 43000,
+        "margin": 6000
+      },
+      {
+        "product": "Robusta Peaberry",
+        "size": "250 g",
+        "qty": 1,
+        "sales": 54000,
+        "supplier": 48000,
+        "margin": 6000
+      },
+      {
+        "product": "Arabika Honey Sumbing",
+        "size": "250 g",
+        "qty": 1,
+        "sales": 100000,
+        "supplier": 88000,
+        "margin": 12000
+      },
+      {
+        "product": "Arabika Luwak Specialty",
+        "size": "250 g",
+        "qty": 1,
+        "sales": 168000,
+        "supplier": 146000,
+        "margin": 22000
+      }
+    ]
+  },
+  "tb002_later": {
+    "transactions": 14,
+    "Medium": 21,
+    "Premium": 66,
+    "sales": 1925000,
+    "supplier": 1530000,
+    "margin": 395000,
+    "donation": 70000,
+    "tips": 20500,
+    "result": 444500
+  },
+  "native_header": [
+    "Tanggal",
+    "Pelanggan",
+    "Medium pcs",
+    "Premium pcs",
+    "Total pcs",
+    "Alamat Pengiriman",
+    "Ekspedisi/Jenis",
+    "Penjualan Produk",
+    "Ongkir",
+    "Metode Bayar Ongkir",
+    "Ongkir Disetor ke Yek Ali",
+    "Sumber Pembayaran Ongkir",
+    "Status Ongkir ke Yek Ali",
+    "Ongkir Wajib Ditransfer Sekarang",
+    "Tips Admin Yek Ali",
+    "Setoran Medium",
+    "Setoran Premium",
+    "Setoran Produk",
+    "Total Setoran Yek Ali",
+    "Diskon Reseller",
+    "Laba Kotor Produk",
+    "Laba Setelah Diskon",
+    "Laba Reseller",
+    "Status",
+    "Waktu Pembayaran",
+    "Periode Tutup Buku",
+    "Waktu Tutup Buku",
+    "Catatan",
+    "Kelengkapan Data",
+    "Premium TOPLES pcs",
+    "Setoran Premium TOPLES",
+    "Harga Jual Premium TOPLES/pcs"
+  ]
+}

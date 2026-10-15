@@ -1,0 +1,145 @@
+[
+  {
+    "id": "EVD-01",
+    "masks_baseline_pixels": [
+      [
+        270,
+        1130,
+        1040,
+        1245
+      ]
+    ],
+    "crop_baseline_pixels": [
+      0,
+      735,
+      1040,
+      1250
+    ],
+    "dimensions": [
+      1040,
+      515
+    ],
+    "sha256": "570f58a66aa93f8dadcf374240648e0c710ff671b317eabe59b7a7f4b934d6aa"
+  },
+  {
+    "id": "EVD-02",
+    "masks_baseline_pixels": [],
+    "crop_baseline_pixels": [
+      0,
+      230,
+      1040,
+      1520
+    ],
+    "dimensions": [
+      1040,
+      1290
+    ],
+    "sha256": "947c99008f78ebbdba064a8d5433de7adeb203a1fd83993546576481d43926a6"
+  },
+  {
+    "id": "EVD-03",
+    "masks_baseline_pixels": [],
+    "crop_baseline_pixels": [
+      0,
+      440,
+      1040,
+      1760
+    ],
+    "dimensions": [
+      1040,
+      1320
+    ],
+    "sha256": "ff601ee9f0a63b377a15bab141deb25fe0093b818437eb376a1ff6e7b6702ea7"
+  },
+  {
+    "id": "EVD-04",
+    "masks_baseline_pixels": [],
+    "crop_baseline_pixels": null,
+    "dimensions": [
+      1040,
+      1850
+    ],
+    "sha256": "3bf8afe577188f17c51131eea12612b8679bcc3c0bb006255cf9b027cb599c42"
+  },
+  {
+    "id": "EVD-05",
+    "masks_baseline_pixels": [
+      [
+        840,
+        80,
+        1015,
+        185
+      ]
+    ],
+    "crop_baseline_pixels": [
+      0,
+      40,
+      1040,
+      1400
+    ],
+    "dimensions": [
+      1040,
+      1360
+    ],
+    "sha256": "b4c69679397283abd30696144f8a607f199cd2bb19008276123b785424a109ed"
+  },
+  {
+    "id": "EVD-06",
+    "masks_baseline_pixels": [
+      [
+        155,
+        1530,
+        335,
+        1605
+      ],
+      [
+        640,
+        1690,
+        1040,
+        1760
+      ],
+      [
+        15,
+        1755,
+        1040,
+        1850
+      ]
+    ],
+    "crop_baseline_pixels": null,
+    "dimensions": [
+      1040,
+      1850
+    ],
+    "sha256": "66a860ae01355485d41dcb380f7949e25b8a68f5a089a9b8d74f182468495992"
+  },
+  {
+    "id": "EVD-07",
+    "masks_baseline_pixels": [],
+    "crop_baseline_pixels": [
+      0,
+      45,
+      1040,
+      1550
+    ],
+    "dimensions": [
+      1040,
+      1505
+    ],
+    "sha256": "745b12ce776abfc6ff57a7028492898dfe340113600947e8901d7ec2c97ced52"
+  },
+  {
+    "id": "EVD-08",
+    "masks_baseline_pixels": [],
+    "crop_baseline_pixels": [
+      0,
+      100,
+      1040,
+      1660
+    ],
+    "dimensions": [
+      1040,
+      1560
+    ],
+    "sha256": "8889347cc93dc1a9b51b5a64dc06e88f9dd85187df5bca37b4e107ef50b8f8a9"
+  }
+]

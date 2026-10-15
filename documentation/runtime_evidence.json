@@ -1,0 +1,82 @@
+[
+  {
+    "session_prefix": "7b7645aa",
+    "records": 26,
+    "tool_calls": 12,
+    "start_utc": "2026-10-09T10:30:53Z",
+    "end_utc": "2026-10-09T10:33:46Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "e626f804",
+    "records": 85,
+    "tool_calls": 40,
+    "start_utc": "2026-10-09T10:30:53Z",
+    "end_utc": "2026-10-09T10:35:59Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "6a7971fd",
+    "records": 510,
+    "tool_calls": 253,
+    "start_utc": "2026-10-09T11:20:52Z",
+    "end_utc": "2026-10-09T12:02:47Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "b111b4bb",
+    "records": 114,
+    "tool_calls": 56,
+    "start_utc": "2026-10-09T11:20:52Z",
+    "end_utc": "2026-10-09T11:32:06Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "d9c27a80",
+    "records": 74,
+    "tool_calls": 35,
+    "start_utc": "2026-10-09T13:10:03Z",
+    "end_utc": "2026-10-09T13:14:14Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "6289dc47",
+    "records": 52,
+    "tool_calls": 25,
+    "start_utc": "2026-10-09T13:10:03Z",
+    "end_utc": "2026-10-09T13:13:22Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "0e37fbb6",
+    "records": 96,
+    "tool_calls": 47,
+    "start_utc": "2026-10-09T13:10:15Z",
+    "end_utc": "2026-10-09T13:18:19Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "f85edaa3",
+    "records": 148,
+    "tool_calls": 73,
+    "start_utc": "2026-10-09T13:10:15Z",
+    "end_utc": "2026-10-09T13:19:58Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "b301ab77",
+    "records": 160,
+    "tool_calls": 77,
+    "start_utc": "2026-10-09T13:10:25Z",
+    "end_utc": "2026-10-09T14:48:31Z",
+    "last_status": "DONE"
+  },
+  {
+    "session_prefix": "87ef2020",
+    "records": 118,
+    "tool_calls": 58,
+    "start_utc": "2026-10-11T16:42:22Z",
+    "end_utc": "2026-10-11T16:49:05Z",
+    "last_status": "DONE"
+  }
+]
