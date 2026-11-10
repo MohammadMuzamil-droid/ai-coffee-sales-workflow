@@ -22,11 +22,11 @@ Evidence -> route supplier -> read relevant existing rows -> interpret entire se
 
 Customer payment, supplier remittance, invoice eligibility and closing are distinct. Sastra's default event order is not a mandatory dependency. Supplier payment is neither a prerequisite to invoice eligibility nor an automatic trigger for closing.
 
-Yek Ali COD excludes shipping from customer product transfer; transferred shipping is a separate supplier obligation unless supported deposit/payment reconciliation resolves it. Sastra non-COD normally means shipping advanced by Sastra. Evidence overrides defaults. Do not import Yek Ali deposit/donation rules into Sastra automatically.
+Supplier A COD excludes shipping from customer product transfer; transferred shipping is a separate supplier obligation unless supported deposit/payment reconciliation resolves it. Sastra non-COD normally means shipping advanced by Sastra. Evidence overrides defaults. Do not import Supplier A deposit/donation rules into Sastra automatically.
 
 ## Native header snapshot
 
-Native Yek Ali header read 14October 2026 has32 fields, including later Premium TOPLES fields. It is not the exact schema of each historical PDF export or proof that older outputs populated32 fields. Sedekah belongs in Arus Reseller.
+Native Supplier A header read 14October 2026 has32 fields, including later Premium TOPLES fields. It is not the exact schema of each historical PDF export or proof that older outputs populated32 fields. Sedekah belongs in Arus Reseller.
 
 | Position | Native field |
 |---:|---|
@@ -40,15 +40,15 @@ Native Yek Ali header read 14October 2026 has32 fields, including later Premium 
 | 8 | Penjualan Produk |
 | 9 | Ongkir |
 | 10 | Metode Bayar Ongkir |
-| 11 | Ongkir Disetor ke Yek Ali |
+| 11 | Ongkir Disetor ke Supplier A |
 | 12 | Sumber Pembayaran Ongkir |
-| 13 | Status Ongkir ke Yek Ali |
+| 13 | Status Ongkir ke Supplier A |
 | 14 | Ongkir Wajib Ditransfer Sekarang |
-| 15 | Tips Admin Yek Ali |
+| 15 | Tips Admin Supplier A |
 | 16 | Setoran Medium |
 | 17 | Setoran Premium |
 | 18 | Setoran Produk |
-| 19 | Total Setoran Yek Ali |
+| 19 | Total Setoran Supplier A |
 | 20 | Diskon Reseller |
 | 21 | Laba Kotor Produk |
 | 22 | Laba Setelah Diskon |

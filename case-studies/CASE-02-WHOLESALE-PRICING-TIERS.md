@@ -47,7 +47,7 @@ This is a current explanatory instruction, not a recovered verbatim historical p
 
 ## Sources and lessons
 
-Yek Ali Transaksi row 27; Log business rules section 2.
+Supplier A Transaksi row 27; Log business rules section 2.
 
 [Catalog](../evidence/evidence_catalog.md) | [Anonymized ledger extracts](../evidence/verified_ledger_extracts.json) | [README](../README.md)
 

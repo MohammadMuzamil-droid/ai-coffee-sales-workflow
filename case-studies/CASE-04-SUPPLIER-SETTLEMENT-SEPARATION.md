@@ -4,7 +4,7 @@ Evidence strength is identified in each section. No exact historical prompt, ban
 
 ## Business problem
 
-A second supplier has a different product catalog and shipping policy. Its obligations must not inherit Yek Ali rules or be confused with a different remittance batch.
+A second supplier has a different product catalog and shipping policy. Its obligations must not inherit Supplier A rules or be confused with a different remittance batch.
 
 ## Historical input
 

@@ -17,11 +17,11 @@ Authentic historical content with irreversible masking and disclosed viewport cr
 
 | Case | Source locator | Limit |
 |---|---|---|
-| [CASE-01](../case-studies/CASE-01-WHATSAPP-ORDER-TO-INVOICE.md) | Yek Ali Transaksi row 2; EVD-03. | No historical SeaBank payment instruction, greeting or call-to-action is visible in this card. Dispatch and refund are not independently verified by bank or delivery receipts. |
-| [CASE-02](../case-studies/CASE-02-WHOLESALE-PRICING-TIERS.md) | Yek Ali Transaksi row 27; Log business rules section 2. | This is a ledger-supported pricing episode, with no public original inquiry, dispatched invoice, stock audit or independent bank reconciliation. |
-| [CASE-03](../case-studies/CASE-03-SHIPPING-CORRECTION-REFUND.md) | EVD-01, 02, 04, 05, 06; Yek Ali Transaksi row 5, notes AB; Arus Reseller row 3. | Payment and refund are ledger/conversation-recorded, not independently bank-verified. No technical cause of the reading error is established. The evidence does not establish detection through parcel weight. |
+| [CASE-01](../case-studies/CASE-01-WHATSAPP-ORDER-TO-INVOICE.md) | Supplier A Transaksi row 2; EVD-03. | No historical SeaBank payment instruction, greeting or call-to-action is visible in this card. Dispatch and refund are not independently verified by bank or delivery receipts. |
+| [CASE-02](../case-studies/CASE-02-WHOLESALE-PRICING-TIERS.md) | Supplier A Transaksi row 27; Log business rules section 2. | This is a ledger-supported pricing episode, with no public original inquiry, dispatched invoice, stock audit or independent bank reconciliation. |
+| [CASE-03](../case-studies/CASE-03-SHIPPING-CORRECTION-REFUND.md) | EVD-01, 02, 04, 05, 06; Supplier A Transaksi row 5, notes AB; Arus Reseller row 3. | Payment and refund are ledger/conversation-recorded, not independently bank-verified. No technical cause of the reading error is established. The evidence does not establish detection through parcel weight. |
 | [CASE-04](../case-studies/CASE-04-SUPPLIER-SETTLEMENT-SEPARATION.md) | Sastra Transaksi row 5; Detail Pesanan rows 5-8; Master Harga; Workflow Sastra. | The separate 16 September remittance Rp219.000 concerns two earlier orders (Rp54.000 + Rp165.000), not settlement of the 28 September order. Bank settlement of the latter is not established. |
-| [CASE-05](../case-studies/CASE-05-MONTHLY-CLOSING-BOOKKEEPING.md) | Yek Ali Transaksi rows 2-7; Laporan Tutup Buku E9, K3:L3, K4:L4, L14; Arus Reseller row 3; EVD-07/08. | Rp205.800 is not independently bank-reconciled profit. The cause of the source inconsistency is unknown. TB-002 later native state has14 transactions and differs from the earlier six-transaction snapshot. |
+| [CASE-05](../case-studies/CASE-05-MONTHLY-CLOSING-BOOKKEEPING.md) | Supplier A Transaksi rows 2-7; Laporan Tutup Buku E9, K3:L3, K4:L4, L14; Arus Reseller row 3; EVD-07/08. | Rp205.800 is not independently bank-reconciled profit. The cause of the source inconsistency is unknown. TB-002 later native state has14 transactions and differs from the earlier six-transaction snapshot. |
 
 ## Public financial evidence
 

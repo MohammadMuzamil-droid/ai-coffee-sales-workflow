@@ -44,7 +44,7 @@ Wrong bills:160.000+7.200=167.200;160.000+72.000=232.000. Corrected bill:160.000
 
 ## Sources and lessons
 
-EVD-01, 02, 04, 05, 06; Yek Ali Transaksi row 5, notes AB; Arus Reseller row 3.
+EVD-01, 02, 04, 05, 06; Supplier A Transaksi row 5, notes AB; Arus Reseller row 3.
 
 [Catalog](../evidence/evidence_catalog.md) | [Anonymized ledger extracts](../evidence/verified_ledger_extracts.json) | [README](../README.md)
 

@@ -46,7 +46,7 @@ This request is reconstructed from the ledger, not an original WhatsApp input. T
 
 ## Sources and lessons
 
-Yek Ali Transaksi row 2; EVD-03.
+Supplier A Transaksi row 2; EVD-03.
 
 [Catalog](../evidence/evidence_catalog.md) | [Anonymized ledger extracts](../evidence/verified_ledger_extracts.json) | [README](../README.md)
 

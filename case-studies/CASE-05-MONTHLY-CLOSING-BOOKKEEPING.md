@@ -76,7 +76,7 @@ Draft175.000-20.500=154.500; later 1.925.000-1.530.000=395.000;395.000+70.000-20
 
 ## Sources and lessons
 
-Yek Ali Transaksi rows 2-7; Laporan Tutup Buku E9, K3:L3, K4:L4, L14; Arus Reseller row 3; EVD-07/08.
+Supplier A Transaksi rows 2-7; Laporan Tutup Buku E9, K3:L3, K4:L4, L14; Arus Reseller row 3; EVD-07/08.
 
 [Catalog](../evidence/evidence_catalog.md) | [Anonymized ledger extracts](../evidence/verified_ledger_extracts.json) | [README](../README.md)
 

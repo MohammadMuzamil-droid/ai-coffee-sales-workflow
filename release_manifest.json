@@ -7,12 +7,12 @@
   "file_count_including_manifest": 28,
   "files": {
     "AI_Coffee_Sales_Workflow_Portfolio_Recruiter_Edition.pdf": {
-      "bytes": 2939410,
-      "sha256": "428dce07db1099f6fcd778f7a817658aaa1191e99ce288eaed8702ec85aa0563"
+      "bytes": 3529841,
+      "sha256": "9bd92af5fee470f63a2654fabf50d65454fc52d6590faade1e132b8ba2a9df32"
     },
     "CHANGELOG_FINAL.md": {
-      "bytes": 497,
-      "sha256": "a5cec6535504efda14d26982b9bd5fcd743be045642b6a3ff4f95b42de44bcac"
+      "bytes": 773,
+      "sha256": "3a6e291e5f1efc5bd0aacc38da29c4f6c6f07ee3031b4a3900c7c43015e7bb56"
     },
     "DEFECT_RESOLUTION_REGISTER.md": {
       "bytes": 4148,
@@ -31,28 +31,28 @@
       "sha256": "52478641b2dd488887ea9ceacb1542052fe4e9ac803b8b166a2e58a5a542c821"
     },
     "architecture/workflow_pipeline.md": {
-      "bytes": 3521,
-      "sha256": "cc10024e7b0a491dfe96c5abdd65b5710e81cbfd1c3146b189f06d48cf10081b"
+      "bytes": 3542,
+      "sha256": "ded4c29a58d3665a656177fe3e62135e590294ef994c4b2d1a71bcfe97c895a4"
     },
     "case-studies/CASE-01-WHATSAPP-ORDER-TO-INVOICE.md": {
-      "bytes": 2752,
-      "sha256": "f2560dcbb7aa03ac41028be944967f66aae4030c374c9292079e71b96a94a6d1"
+      "bytes": 2755,
+      "sha256": "5fd7bead88d09fa8f8f0315dcf84a18a75220f20fc413a7ec5c8b7cc296dcb73"
     },
     "case-studies/CASE-02-WHOLESALE-PRICING-TIERS.md": {
-      "bytes": 2629,
-      "sha256": "d2c61229b88546130eb61d7835df14f7eefdf1b30b0ea99ce30018e666c0b683"
+      "bytes": 2632,
+      "sha256": "49fd5bd1984f74628fee21aa761ea01ddb761b7d7191e7b6db0dc3d981b8b7cd"
     },
     "case-studies/CASE-03-SHIPPING-CORRECTION-REFUND.md": {
-      "bytes": 4243,
-      "sha256": "d862e505647c45e28327f47483eb7d9434f630b59fca4abfd95b027f473372f1"
+      "bytes": 4246,
+      "sha256": "922c8b622b16ab2a990ff4d1eae40f3f4cbad42efb22d1a0874bc03172ad2f05"
     },
     "case-studies/CASE-04-SUPPLIER-SETTLEMENT-SEPARATION.md": {
-      "bytes": 3170,
-      "sha256": "5ad1af95ca09cc26cac85ed8d873967c603943deaf34baaf3645aebf08a0b3d5"
+      "bytes": 3173,
+      "sha256": "2bf610efc53c9afb14cb3c89ed370996f7ae9307a28e26561d78586bcc7a0796"
     },
     "case-studies/CASE-05-MONTHLY-CLOSING-BOOKKEEPING.md": {
-      "bytes": 4945,
-      "sha256": "c71427bad2f20e370ba5c908292d0a17e8086cd778b7425cdcfdcc2d4ff815dd"
+      "bytes": 4948,
+      "sha256": "fa350359e58c7e994e38f9e5ddcc997157387088dd24fb151eddb932fd3b8d48"
     },
     "documentation/runtime_disclosure.md": {
       "bytes": 1425,
@@ -63,28 +63,28 @@
       "sha256": "4178b1d8f7d93f44257bfcfafa2a6139e807df28b08fb1a951f28b49b780d028"
     },
     "evidence/evidence_catalog.md": {
-      "bytes": 5362,
-      "sha256": "cce56cab3988283c8957e6b282a06a0089d474d15b3ba555a5c43a753ac18f84"
+      "bytes": 5374,
+      "sha256": "442219bfa1420a28c7b86b31ff60d248b8cd02e3a12ad42a23f8062f4f87f9cf"
     },
     "evidence/privacy_report.md": {
-      "bytes": 1539,
-      "sha256": "9ffff93decfbb63f679732cb568bf8c94a8a99d80a0be47d5fdc045432c67989"
+      "bytes": 1642,
+      "sha256": "99127e6050d4fca1b17005a90489795fc0e90087030d9c9ef1434f8696c52fb2"
     },
     "evidence/redaction_changes.json": {
       "bytes": 2599,
       "sha256": "e47ca3a4885bc511cbcc665343287b0c8d96579aaed9f36541da2d428df33c6b"
     },
     "evidence/verified_ledger_extracts.json": {
-      "bytes": 3885,
-      "sha256": "9eb22cdc47528e0767cc25450c7c8b6e2ad0921feb0417c1fd1236b66fbdf685"
+      "bytes": 3897,
+      "sha256": "283fdb92c5e574848a9e977b63b4a5a78dfec9eeecf3ce33c99c38621b4fa742"
     },
     "methodology/human_supervision_framework.md": {
       "bytes": 2178,
       "sha256": "714e0efcbdedf8174f2a15f0d4dcad6031efe73a54dbe5acf11171962a5380fb"
     },
     "evidence/public_redacted/EVD-01-physical-receipt-27200.jpg": {
-      "bytes": 111254,
-      "sha256": "570f58a66aa93f8dadcf374240648e0c710ff671b317eabe59b7a7f4b934d6aa"
+      "bytes": 92511,
+      "sha256": "cc8bb0c1ffbe2e174b121f055de96ccd60b9afba2d7510347c530c2e7736918c"
     },
     "evidence/public_redacted/EVD-02-chatgpt-misread-7200.jpg": {
       "bytes": 144642,
@@ -95,12 +95,12 @@
       "sha256": "ff601ee9f0a63b377a15bab141deb25fe0093b818437eb376a1ff6e7b6702ea7"
     },
     "evidence/public_redacted/EVD-04-chatgpt-misread-72000.jpg": {
-      "bytes": 265460,
-      "sha256": "3bf8afe577188f17c51131eea12612b8679bcc3c0bb006255cf9b027cb599c42"
+      "bytes": 262088,
+      "sha256": "a427594e4ca5e6ac9e3ffb89c7be4edcc7eb0b8959724b18016fd56d10b53ae5"
     },
     "evidence/public_redacted/EVD-05-human-correction-27200.jpg": {
-      "bytes": 265974,
-      "sha256": "b4c69679397283abd30696144f8a607f199cd2bb19008276123b785424a109ed"
+      "bytes": 225600,
+      "sha256": "6e9d3a1d5df86da252b20a11d17ad48520fbba431eaaeb216284c8f437872fec"
     },
     "evidence/public_redacted/EVD-06-payment-transfer-188k.jpg": {
       "bytes": 334779,
@@ -111,8 +111,8 @@
       "sha256": "745b12ce776abfc6ff57a7028492898dfe340113600947e8901d7ec2c97ced52"
     },
     "evidence/public_redacted/EVD-08-reseller-margin-tips.jpg": {
-      "bytes": 254296,
-      "sha256": "8889347cc93dc1a9b51b5a64dc06e88f9dd85187df5bca37b4e107ef50b8f8a9"
+      "bytes": 215288,
+      "sha256": "ced4782724e29ad7b2d07ea9494ca275363b538c4b08e5d93c879b2e9bd96cb7"
     }
   }
 }
